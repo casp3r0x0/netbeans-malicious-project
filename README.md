@@ -6,6 +6,6 @@ this  pero have   2 project
 1- the  malicious   java  lib
 2- and   example java   project   
 
-this is   only  for  education  purpose only  auther is not  responsible for your actions 
+this is   only  for  education  purpose only  , auther is not  responsible for your actions 
 
 keep  learning  💪🏻
