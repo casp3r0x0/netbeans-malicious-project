@@ -1,5 +1,10 @@
 # netbeans-malicious-project
 netbeans malicious  project
+full writep : 
+
+
+https://medium.com/@casp3r0x0/malware-in-java-netbeans-projects-how-b162e877dc25
+
 
 this   project  you can  a malicious  library  and  import it  into  your  netbeans   project   and  if the   victim  runs your project  you will  get  reverse  shell  
 this  pero have   2 project
